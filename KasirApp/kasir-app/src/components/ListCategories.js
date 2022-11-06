@@ -43,9 +43,9 @@ export default class ListCategories extends Component {
 
   render() {
     const { categories } = this.state;
-    const { changeCategory, categoryYangDipilih } = this.props;
+    const { changeCategory, categoriYangDipilih } = this.props;
     return (
-      <Col md={2} mt="2">
+      <Col md={2} mt="3">
         <h4>
           <strong>Daftar Kategori</strong>
         </h4>
@@ -56,7 +56,7 @@ export default class ListCategories extends Component {
               <ListGroup.Item
                 key={category.id}
                 onClick={() => changeCategory(category.nama)}
-                className={categoryYangDipilih === category.nama && "category-aktif"}
+                className={categoriYangDipilih === category.nama && "category-aktif"}
                 style={{cursor: 'pointer'}}
               >
                 <h5>
