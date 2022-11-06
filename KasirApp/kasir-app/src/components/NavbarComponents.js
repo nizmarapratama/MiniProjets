@@ -1,9 +1,9 @@
 import React from "react";
-import {Nav, Navbar, NavDropdown, Container, Form, Button } from 'react-bootstrap'
+import {Nav, Navbar, NavDropdown, Container } from 'react-bootstrap'
 
 const NavbarComponent = () => {
   return (
-    <Navbar variant="light" expand="lg">
+    <Navbar variant="dark" expand="lg">
       <Container>
       <Navbar.Brand href="#home"><strong>Kasir</strong> App</Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -23,15 +23,6 @@ const NavbarComponent = () => {
             </NavDropdown.Item>
           </NavDropdown>
         </Nav>
-        <Form className="d-flex">
-            <Form.Control
-              type="search"
-              placeholder="Search"
-              className="mr-sm-2"
-              aria-label="Search"
-            />
-            <Button variant="outline-success">Search</Button>
-          </Form>
       </Navbar.Collapse>
       </Container>
     </Navbar>
