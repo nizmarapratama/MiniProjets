@@ -185,8 +185,8 @@
   ],
   "keranjangs": [
     {
-      "jumlah": 3,
-      "total_harga": 48000,
+      "jumlah": 2,
+      "total_harga": 32000,
       "product": {
         "id": 1,
         "kode": "K-01",
@@ -217,23 +217,6 @@
         }
       },
       "id": 2
-    },
-    {
-      "jumlah": 2,
-      "total_harga": 10000,
-      "product": {
-        "id": 8,
-        "kode": "K-08",
-        "nama": "Pangsit 6 pcs",
-        "harga": 5000,
-        "is_ready": true,
-        "gambar": "pangsit.jpg",
-        "category": {
-          "id": 3,
-          "nama": "Cemilan"
-        }
-      },
-      "id": 3
     }
   ],
   "pesanans": [
