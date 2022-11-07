@@ -185,8 +185,8 @@
   ],
   "keranjangs": [
     {
-      "jumlah": 2,
-      "total_harga": 32000,
+      "jumlah": 1,
+      "total_harga": 16000,
       "product": {
         "id": 1,
         "kode": "K-01",
@@ -202,8 +202,8 @@
       "id": 1
     },
     {
-      "jumlah": 2,
-      "total_harga": 28000,
+      "jumlah": 1,
+      "total_harga": 14000,
       "product": {
         "id": 2,
         "kode": "K-02",
@@ -217,15 +217,32 @@
         }
       },
       "id": 2
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 7000,
+      "product": {
+        "id": 12,
+        "kode": "K-012",
+        "nama": "Es Jeruk",
+        "harga": 7000,
+        "is_ready": true,
+        "gambar": "es-jeruk.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      },
+      "id": 3
     }
   ],
   "pesanans": [
     {
-      "total_bayar": 60000,
+      "total_bayar": 52000,
       "menus": [
         {
-          "jumlah": 2,
-          "total_harga": 32000,
+          "jumlah": 1,
+          "total_harga": 16000,
           "product": {
             "id": 1,
             "kode": "K-01",
@@ -238,12 +255,11 @@
               "nama": "Makanan"
             }
           },
-          "keterangan": "Semuanya Pedas",
           "id": 1
         },
         {
-          "jumlah": 2,
-          "total_harga": 28000,
+          "jumlah": 1,
+          "total_harga": 14000,
           "product": {
             "id": 2,
             "kode": "K-02",
@@ -256,7 +272,58 @@
               "nama": "Makanan"
             }
           },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Nasi Rames",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "nasi-rames.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
           "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 5000,
+          "product": {
+            "id": 13,
+            "kode": "K-013",
+            "nama": "Es Teh",
+            "harga": 5000,
+            "is_ready": true,
+            "gambar": "es-teh.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Minuman"
+            }
+          },
+          "id": 4
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 5000,
+          "product": {
+            "id": 8,
+            "kode": "K-08",
+            "nama": "Pangsit 6 pcs",
+            "harga": 5000,
+            "is_ready": true,
+            "gambar": "pangsit.jpg",
+            "category": {
+              "id": 3,
+              "nama": "Cemilan"
+            }
+          },
+          "id": 5
         }
       ],
       "id": 1
