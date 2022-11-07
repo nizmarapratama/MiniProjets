@@ -18,6 +18,15 @@ body {
   background-color: #22668A;
 }
 
+  .hasil {
+    height: 700px;
+  }
+
+
+.overflow-auto::-webkit-scrollbar {
+  display: none;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
