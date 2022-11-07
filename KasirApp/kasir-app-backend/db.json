@@ -16,7 +16,7 @@
   "products": [
     {
       "id": 1,
-      "kode": "K-01",
+      "kode": "Makanan favorit",
       "nama": "Sate Ayam",
       "harga": 16000,
       "is_ready": true,
@@ -185,11 +185,11 @@
   ],
   "keranjangs": [
     {
-      "jumlah": 1,
-      "total_harga": 16000,
+      "jumlah": 4,
+      "total_harga": 64000,
       "product": {
         "id": 1,
-        "kode": "K-01",
+        "kode": "Makanan favorit",
         "nama": "Sate Ayam",
         "harga": 16000,
         "is_ready": true,
