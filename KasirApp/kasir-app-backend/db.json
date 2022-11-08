@@ -16,11 +16,11 @@
   "products": [
     {
       "id": 1,
-      "kode": "Makanan favorit",
-      "nama": "Sate Ayam",
+      "kode": "Menu Lapar-1",
+      "nama": "Sate Madura",
       "harga": 16000,
       "is_ready": true,
-      "gambar": "sate-ayam.jpg",
+      "gambar": "sate-madura.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -28,11 +28,11 @@
     },
     {
       "id": 2,
-      "kode": "K-02",
-      "nama": "Nasi Goreng Telur",
+      "kode": "Menu Lapar-2",
+      "nama": "Nasi Kuning",
       "harga": 14000,
       "is_ready": true,
-      "gambar": "nasi-goreng-telor.jpg",
+      "gambar": "nasi-kuning.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -40,11 +40,11 @@
     },
     {
       "id": 3,
-      "kode": "K-03",
-      "nama": "Nasi Rames",
+      "kode": "Menu Lapar-3",
+      "nama": "Ayam Geprek",
       "harga": 12000,
       "is_ready": true,
-      "gambar": "nasi-rames.jpg",
+      "gambar": "ayam-geprek.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -52,11 +52,11 @@
     },
     {
       "id": 4,
-      "kode": "K-04",
-      "nama": "Lontong Opor Ayam",
+      "kode": "Menu Lapar-4",
+      "nama": "Soto Betawi",
       "harga": 18000,
       "is_ready": true,
-      "gambar": "lontong-opor-ayam.jpg",
+      "gambar": "soto-betawi.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -64,11 +64,11 @@
     },
     {
       "id": 5,
-      "kode": "K-05",
-      "nama": "Mie Goreng",
+      "kode": "Menu Lapar-5",
+      "nama": "Mie Aceh",
       "harga": 13000,
       "is_ready": true,
-      "gambar": "mie-goreng.jpg",
+      "gambar": "mie-aceh.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -76,11 +76,11 @@
     },
     {
       "id": 6,
-      "kode": "K-06",
-      "nama": "Bakso",
+      "kode": "Menu Lapar-6",
+      "nama": "Bakwan Malang",
       "harga": 10000,
       "is_ready": true,
-      "gambar": "bakso.jpg",
+      "gambar": "bakwan-malang.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -88,11 +88,11 @@
     },
     {
       "id": 7,
-      "kode": "K-07",
-      "nama": "Mie Ayam Bakso",
+      "kode": "Menu Lapar-7",
+      "nama": "Gado-Gado",
       "harga": 14000,
       "is_ready": true,
-      "gambar": "mie-ayam-bakso.jpg",
+      "gambar": "gado-gado.jpg",
       "category": {
         "id": 1,
         "nama": "Makanan"
@@ -100,11 +100,11 @@
     },
     {
       "id": 8,
-      "kode": "K-08",
-      "nama": "Pangsit 6 pcs",
+      "kode": "Menu iseng-8",
+      "nama": "Chicken Wings",
       "harga": 5000,
       "is_ready": true,
-      "gambar": "pangsit.jpg",
+      "gambar": "chicken-wings.jpg",
       "category": {
         "id": 3,
         "nama": "Cemilan"
@@ -112,7 +112,7 @@
     },
     {
       "id": 9,
-      "kode": "K-09",
+      "kode": "Menu iseng-9",
       "nama": "Kentang Goreng",
       "harga": 5000,
       "is_ready": true,
@@ -124,11 +124,11 @@
     },
     {
       "id": 10,
-      "kode": "K-010",
-      "nama": "Cheese Burger",
+      "kode": "Menu iseng-10",
+      "nama": "Udang Rambutan",
       "harga": 15000,
       "is_ready": true,
-      "gambar": "cheese-burger.jpg",
+      "gambar": "udang-rambutan.jpg",
       "category": {
         "id": 3,
         "nama": "Cemilan"
@@ -136,11 +136,11 @@
     },
     {
       "id": 11,
-      "kode": "K-011",
-      "nama": "Coffe Late",
+      "kode": "Menu Haus-11",
+      "nama": "Milk Shake",
       "harga": 15000,
       "is_ready": true,
-      "gambar": "coffe-late.jpg",
+      "gambar": "milk-shake.jpg",
       "category": {
         "id": 2,
         "nama": "Minuman"
@@ -148,11 +148,11 @@
     },
     {
       "id": 12,
-      "kode": "K-012",
-      "nama": "Es Jeruk",
+      "kode": "Menu Haus-12",
+      "nama": "Capuchino",
       "harga": 7000,
       "is_ready": true,
-      "gambar": "es-jeruk.jpg",
+      "gambar": "capuchino.jpg",
       "category": {
         "id": 2,
         "nama": "Minuman"
@@ -160,11 +160,11 @@
     },
     {
       "id": 13,
-      "kode": "K-013",
+      "kode": "Menu Haus-13",
       "nama": "Es Teh",
       "harga": 5000,
       "is_ready": true,
-      "gambar": "es-teh.jpg",
+      "gambar": "es-teh-manis.jpg",
       "category": {
         "id": 2,
         "nama": "Minuman"
@@ -172,210 +172,39 @@
     },
     {
       "id": 14,
-      "kode": "K-014",
-      "nama": "Teh Hangat",
+      "kode": "Menu Haus-14",
+      "nama": "Es Teler",
       "harga": 3000,
       "is_ready": true,
-      "gambar": "teh-hangat.jpg",
+      "gambar": "es-teler.jpg",
       "category": {
         "id": 2,
         "nama": "Minuman"
       }
     }
   ],
-  "keranjangs": [
-    {
-      "jumlah": 4,
-      "total_harga": 64000,
-      "product": {
-        "id": 1,
-        "kode": "Makanan favorit",
-        "nama": "Sate Ayam",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-ayam.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 1
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 14000,
-      "product": {
-        "id": 2,
-        "kode": "K-02",
-        "nama": "Nasi Goreng Telur",
-        "harga": 14000,
-        "is_ready": true,
-        "gambar": "nasi-goreng-telor.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 2
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 12000,
-      "product": {
-        "id": 3,
-        "kode": "K-03",
-        "nama": "Nasi Rames",
-        "harga": 12000,
-        "is_ready": true,
-        "gambar": "nasi-rames.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 3
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 18000,
-      "product": {
-        "id": 4,
-        "kode": "K-04",
-        "nama": "Lontong Opor Ayam",
-        "harga": 18000,
-        "is_ready": true,
-        "gambar": "lontong-opor-ayam.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 4
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 13000,
-      "product": {
-        "id": 5,
-        "kode": "K-05",
-        "nama": "Mie Goreng",
-        "harga": 13000,
-        "is_ready": true,
-        "gambar": "mie-goreng.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 5
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 10000,
-      "product": {
-        "id": 6,
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
-        "is_ready": true,
-        "gambar": "bakso.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 6
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 14000,
-      "product": {
-        "id": 7,
-        "kode": "K-07",
-        "nama": "Mie Ayam Bakso",
-        "harga": 14000,
-        "is_ready": true,
-        "gambar": "mie-ayam-bakso.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 7
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 15000,
-      "product": {
-        "id": 11,
-        "kode": "K-011",
-        "nama": "Coffe Late",
-        "harga": 15000,
-        "is_ready": true,
-        "gambar": "coffe-late.jpg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      "id": 8
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 7000,
-      "product": {
-        "id": 12,
-        "kode": "K-012",
-        "nama": "Es Jeruk",
-        "harga": 7000,
-        "is_ready": true,
-        "gambar": "es-jeruk.jpg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      "id": 9
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 5000,
-      "product": {
-        "id": 13,
-        "kode": "K-013",
-        "nama": "Es Teh",
-        "harga": 5000,
-        "is_ready": true,
-        "gambar": "es-teh.jpg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      "id": 10
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 3000,
-      "product": {
-        "id": 14,
-        "kode": "K-014",
-        "nama": "Teh Hangat",
-        "harga": 3000,
-        "is_ready": true,
-        "gambar": "teh-hangat.jpg",
-        "category": {
-          "id": 2,
-          "nama": "Minuman"
-        }
-      },
-      "id": 11
-    }
-  ],
+  "keranjangs": [],
   "pesanans": [
     {
-      "total_bayar": 14000,
+      "total_bayar": 42000,
       "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Makan Berat",
+            "nama": "Sate Ayam",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-ayam.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
         {
           "jumlah": 1,
           "total_harga": 14000,
@@ -391,24 +220,64 @@
               "nama": "Makanan"
             }
           },
-          "id": 1
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Nasi Rames",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "nasi-rames.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
         }
       ],
       "id": 1
     },
     {
-      "total_bayar": 32000,
+      "total_bayar": 16000,
       "menus": [
         {
           "jumlah": 1,
-          "total_harga": 18000,
+          "total_harga": 16000,
           "product": {
-            "id": 4,
-            "kode": "K-04",
-            "nama": "Lontong Opor Ayam",
-            "harga": 18000,
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
             "is_ready": true,
-            "gambar": "lontong-opor-ayam.jpg",
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "total_bayar": 42000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
             "category": {
               "id": 1,
               "nama": "Makanan"
@@ -420,12 +289,1498 @@
           "jumlah": 1,
           "total_harga": 14000,
           "product": {
-            "id": 7,
-            "kode": "K-07",
-            "nama": "Mie Ayam Bakso",
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
             "harga": 14000,
             "is_ready": true,
-            "gambar": "mie-ayam-bakso.jpg",
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 3
+    },
+    {
+      "total_bayar": 42000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 4
+    },
+    {
+      "total_bayar": 42000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 5
+    },
+    {
+      "total_bayar": 42000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 6
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 7
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 8
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 9
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 10
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 11
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 12
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 13
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 14
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 15
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 16
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 17
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 18
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 19
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 20
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 21
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 22
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 24000,
+          "product": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "K-02",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 18000,
+          "product": {
+            "id": 4,
+            "kode": "K-04",
+            "nama": "Soto Betawi",
+            "harga": 18000,
+            "is_ready": true,
+            "gambar": "soto-betawi.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 23
+    },
+    {
+      "total_bayar": 30000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "Menu Lapar-2",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
             "category": {
               "id": 1,
               "nama": "Makanan"
@@ -434,441 +1789,320 @@
           "id": 2
         }
       ],
-      "id": 2
-    },
-    {
-      "total_bayar": 169000,
-      "menus": [
-        {
-          "jumlah": 3,
-          "total_harga": 36000,
-          "product": {
-            "id": 3,
-            "kode": "K-03",
-            "nama": "Nasi Rames",
-            "harga": 12000,
-            "is_ready": true,
-            "gambar": "nasi-rames.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 4
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 26000,
-          "product": {
-            "id": 5,
-            "kode": "K-05",
-            "nama": "Mie Goreng",
-            "harga": 13000,
-            "is_ready": true,
-            "gambar": "mie-goreng.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 5
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 20000,
-          "product": {
-            "id": 6,
-            "kode": "K-06",
-            "nama": "Bakso",
-            "harga": 10000,
-            "is_ready": true,
-            "gambar": "bakso.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 6
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 10000,
-          "product": {
-            "id": 13,
-            "kode": "K-013",
-            "nama": "Es Teh",
-            "harga": 5000,
-            "is_ready": true,
-            "gambar": "es-teh.jpg",
-            "category": {
-              "id": 2,
-              "nama": "Minuman"
-            }
-          },
-          "keterangan": "Ekstra es batu",
-          "id": 9
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 10000,
-          "product": {
-            "id": 8,
-            "kode": "K-08",
-            "nama": "Pangsit 6 pcs",
-            "harga": 5000,
-            "is_ready": true,
-            "gambar": "pangsit.jpg",
-            "category": {
-              "id": 3,
-              "nama": "Cemilan"
-            }
-          },
-          "id": 11
-        },
-        {
-          "jumlah": 1,
-          "total_harga": 15000,
-          "product": {
-            "id": 10,
-            "kode": "K-010",
-            "nama": "Cheese Burger",
-            "harga": 15000,
-            "is_ready": true,
-            "gambar": "cheese-burger.jpg",
-            "category": {
-              "id": 3,
-              "nama": "Cemilan"
-            }
-          },
-          "id": 13
-        },
-        {
-          "jumlah": 1,
-          "total_harga": 16000,
-          "product": {
-            "id": 1,
-            "kode": "K-01",
-            "nama": "Sate Ayam",
-            "harga": 16000,
-            "is_ready": true,
-            "gambar": "sate-ayam.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 14
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 36000,
-          "product": {
-            "id": 4,
-            "kode": "K-04",
-            "nama": "Lontong Opor Ayam",
-            "harga": 18000,
-            "is_ready": true,
-            "gambar": "lontong-opor-ayam.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 15
-        }
-      ],
-      "id": 3
-    },
-    {
-      "total_bayar": 169000,
-      "menus": [
-        {
-          "jumlah": 3,
-          "total_harga": 36000,
-          "product": {
-            "id": 3,
-            "kode": "K-03",
-            "nama": "Nasi Rames",
-            "harga": 12000,
-            "is_ready": true,
-            "gambar": "nasi-rames.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 4
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 26000,
-          "product": {
-            "id": 5,
-            "kode": "K-05",
-            "nama": "Mie Goreng",
-            "harga": 13000,
-            "is_ready": true,
-            "gambar": "mie-goreng.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 5
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 20000,
-          "product": {
-            "id": 6,
-            "kode": "K-06",
-            "nama": "Bakso",
-            "harga": 10000,
-            "is_ready": true,
-            "gambar": "bakso.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 6
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 10000,
-          "product": {
-            "id": 13,
-            "kode": "K-013",
-            "nama": "Es Teh",
-            "harga": 5000,
-            "is_ready": true,
-            "gambar": "es-teh.jpg",
-            "category": {
-              "id": 2,
-              "nama": "Minuman"
-            }
-          },
-          "keterangan": "Ekstra es batu",
-          "id": 9
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 10000,
-          "product": {
-            "id": 8,
-            "kode": "K-08",
-            "nama": "Pangsit 6 pcs",
-            "harga": 5000,
-            "is_ready": true,
-            "gambar": "pangsit.jpg",
-            "category": {
-              "id": 3,
-              "nama": "Cemilan"
-            }
-          },
-          "id": 11
-        },
-        {
-          "jumlah": 1,
-          "total_harga": 15000,
-          "product": {
-            "id": 10,
-            "kode": "K-010",
-            "nama": "Cheese Burger",
-            "harga": 15000,
-            "is_ready": true,
-            "gambar": "cheese-burger.jpg",
-            "category": {
-              "id": 3,
-              "nama": "Cemilan"
-            }
-          },
-          "id": 13
-        },
-        {
-          "jumlah": 1,
-          "total_harga": 16000,
-          "product": {
-            "id": 1,
-            "kode": "K-01",
-            "nama": "Sate Ayam",
-            "harga": 16000,
-            "is_ready": true,
-            "gambar": "sate-ayam.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 14
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 36000,
-          "product": {
-            "id": 4,
-            "kode": "K-04",
-            "nama": "Lontong Opor Ayam",
-            "harga": 18000,
-            "is_ready": true,
-            "gambar": "lontong-opor-ayam.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 15
-        }
-      ],
-      "id": 4
-    },
-    {
-      "total_bayar": 169000,
-      "menus": [
-        {
-          "jumlah": 3,
-          "total_harga": 36000,
-          "product": {
-            "id": 3,
-            "kode": "K-03",
-            "nama": "Nasi Rames",
-            "harga": 12000,
-            "is_ready": true,
-            "gambar": "nasi-rames.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 4
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 26000,
-          "product": {
-            "id": 5,
-            "kode": "K-05",
-            "nama": "Mie Goreng",
-            "harga": 13000,
-            "is_ready": true,
-            "gambar": "mie-goreng.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 5
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 20000,
-          "product": {
-            "id": 6,
-            "kode": "K-06",
-            "nama": "Bakso",
-            "harga": 10000,
-            "is_ready": true,
-            "gambar": "bakso.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 6
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 10000,
-          "product": {
-            "id": 13,
-            "kode": "K-013",
-            "nama": "Es Teh",
-            "harga": 5000,
-            "is_ready": true,
-            "gambar": "es-teh.jpg",
-            "category": {
-              "id": 2,
-              "nama": "Minuman"
-            }
-          },
-          "keterangan": "Ekstra es batu",
-          "id": 9
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 10000,
-          "product": {
-            "id": 8,
-            "kode": "K-08",
-            "nama": "Pangsit 6 pcs",
-            "harga": 5000,
-            "is_ready": true,
-            "gambar": "pangsit.jpg",
-            "category": {
-              "id": 3,
-              "nama": "Cemilan"
-            }
-          },
-          "id": 11
-        },
-        {
-          "jumlah": 1,
-          "total_harga": 15000,
-          "product": {
-            "id": 10,
-            "kode": "K-010",
-            "nama": "Cheese Burger",
-            "harga": 15000,
-            "is_ready": true,
-            "gambar": "cheese-burger.jpg",
-            "category": {
-              "id": 3,
-              "nama": "Cemilan"
-            }
-          },
-          "id": 13
-        },
-        {
-          "jumlah": 1,
-          "total_harga": 16000,
-          "product": {
-            "id": 1,
-            "kode": "K-01",
-            "nama": "Sate Ayam",
-            "harga": 16000,
-            "is_ready": true,
-            "gambar": "sate-ayam.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 14
-        },
-        {
-          "jumlah": 2,
-          "total_harga": 36000,
-          "product": {
-            "id": 4,
-            "kode": "K-04",
-            "nama": "Lontong Opor Ayam",
-            "harga": 18000,
-            "is_ready": true,
-            "gambar": "lontong-opor-ayam.jpg",
-            "category": {
-              "id": 1,
-              "nama": "Makanan"
-            }
-          },
-          "id": 15
-        }
-      ],
-      "id": 5
+      "id": 24
     },
     {
       "total_bayar": 0,
       "menus": [],
-      "id": 6
+      "id": 25
+    },
+    {
+      "total_bayar": 42000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "Menu Lapar-2",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "Menu Lapar-3",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 26
+    },
+    {
+      "total_bayar": 42000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "Menu Lapar-2",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "Menu Lapar-3",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 27
+    },
+    {
+      "total_bayar": 0,
+      "menus": [],
+      "id": 28
+    },
+    {
+      "total_bayar": 13000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 13000,
+          "product": {
+            "id": 5,
+            "kode": "Menu Lapar-5",
+            "nama": "Mie Aceh",
+            "harga": 13000,
+            "is_ready": true,
+            "gambar": "mie-aceh.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 29
+    },
+    {
+      "total_bayar": 13000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 13000,
+          "product": {
+            "id": 5,
+            "kode": "Menu Lapar-5",
+            "nama": "Mie Aceh",
+            "harga": 13000,
+            "is_ready": true,
+            "gambar": "mie-aceh.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 30
+    },
+    {
+      "total_bayar": 13000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 13000,
+          "product": {
+            "id": 5,
+            "kode": "Menu Lapar-5",
+            "nama": "Mie Aceh",
+            "harga": 13000,
+            "is_ready": true,
+            "gambar": "mie-aceh.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 31
+    },
+    {
+      "total_bayar": 43000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 13000,
+          "product": {
+            "id": 5,
+            "kode": "Menu Lapar-5",
+            "nama": "Mie Aceh",
+            "harga": 13000,
+            "is_ready": true,
+            "gambar": "mie-aceh.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "Menu Lapar-2",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 3
+        }
+      ],
+      "id": 32
+    },
+    {
+      "total_bayar": 30000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "Menu Lapar-2",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        }
+      ],
+      "id": 33
+    },
+    {
+      "total_bayar": 12000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 12000,
+          "product": {
+            "id": 3,
+            "kode": "Menu Lapar-3",
+            "nama": "Ayam Geprek",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "ayam-geprek.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        }
+      ],
+      "id": 34
     }
   ]
 }

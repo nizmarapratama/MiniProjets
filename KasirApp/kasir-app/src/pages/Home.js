@@ -98,7 +98,7 @@ export default class Home extends Component {
               });
             })
             .catch((error) => {
-              console.log("Error yaa ", error);
+              console.log("Error", error);
             });
         } else {
           const keranjang = {
@@ -119,12 +119,12 @@ export default class Home extends Component {
               });
             })
             .catch((error) => {
-              console.log("Error yaa ", error);
+              console.log("Error", error);
             });
         }
       })
       .catch((error) => {
-        console.log("Error yaa ", error);
+        console.log("Error", error);
       });
   };
 

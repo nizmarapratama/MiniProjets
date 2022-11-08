@@ -15,6 +15,7 @@ export default class TotalBayar extends Component {
       }
 
       axios.post(API_URL+"pesanans", pesanan).then((res) => {
+        console.log(res.data);
           this.props.history.push('/sukses')
       })
   };
@@ -36,9 +37,9 @@ export default class TotalBayar extends Component {
                 </div>
               </h4>
               <div className="d-grid gap-4">
-              <Button variant="primary" size="lg" className="mb-2 mt-2 me-3" onClick={() => this.submitTotalBayar(totalBayar)} as={Link} to="/">
+              <Button variant="primary" size="lg" className="mb-2 mt-2 me-3" onClick={() => this.submitTotalBayar(totalBayar)} as={Link}>
                   <FontAwesomeIcon icon={faShoppingCart} />
-                  <strong>BAYAR</strong>
+                  <Link to="/sukses" className="text-white"><strong>BAYAR</strong></Link>
                 </Button>{" "}
               </div>
             </Col>
