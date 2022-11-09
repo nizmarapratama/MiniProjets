@@ -183,7 +183,42 @@
       }
     }
   ],
-  "keranjangs": [],
+  "keranjangs": [
+    {
+      "jumlah": 1,
+      "total_harga": 16000,
+      "product": {
+        "id": 1,
+        "kode": "Menu Lapar-1",
+        "nama": "Sate Madura",
+        "harga": 16000,
+        "is_ready": true,
+        "gambar": "sate-madura.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Makanan"
+        }
+      },
+      "id": 1
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 14000,
+      "product": {
+        "id": 7,
+        "kode": "Menu Lapar-7",
+        "nama": "Gado-Gado",
+        "harga": 14000,
+        "is_ready": true,
+        "gambar": "gado-gado.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Makanan"
+        }
+      },
+      "id": 2
+    }
+  ],
   "pesanans": [
     {
       "total_bayar": 42000,
