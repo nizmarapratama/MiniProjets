@@ -2224,6 +2224,81 @@
         }
       ],
       "id": 37
+    },
+    {
+      "total_bayar": 72000,
+      "menus": [
+        {
+          "jumlah": 2,
+          "total_harga": 32000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 28000,
+          "product": {
+            "id": 2,
+            "kode": "Menu Lapar-2",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "keterangan": "Tidak pake krupuk",
+          "id": 2
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 7000,
+          "product": {
+            "id": 12,
+            "kode": "Menu Haus-12",
+            "nama": "Capuchino",
+            "harga": 7000,
+            "is_ready": true,
+            "gambar": "capuchino.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Minuman"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 5000,
+          "product": {
+            "id": 9,
+            "kode": "Menu iseng-9",
+            "nama": "Kentang Goreng",
+            "harga": 5000,
+            "is_ready": true,
+            "gambar": "kentang-goreng.jpg",
+            "category": {
+              "id": 3,
+              "nama": "Cemilan"
+            }
+          },
+          "id": 5
+        }
+      ],
+      "id": 38
     }
   ]
 }
