@@ -24,7 +24,7 @@ export default class Home extends Component {
         this.setState({ menus });
       })
       .catch((error) => {
-        console.log("Error yaa ", error);
+        console.log("Error", error);
       });
 
       this.getListKeranjang();
@@ -38,7 +38,7 @@ export default class Home extends Component {
         this.setState({ keranjangs });
       })
       .catch((error) => {
-        console.log("Error yaa ", error);
+        console.log("Error", error);
       });
   }
 
@@ -55,7 +55,7 @@ export default class Home extends Component {
         this.setState({ menus });
       })
       .catch((error) => {
-        console.log("Error yaa ", error);
+        console.log("Error", error);
       });
   };
 

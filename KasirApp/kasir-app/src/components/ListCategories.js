@@ -37,7 +37,7 @@ export default class ListCategories extends Component {
         this.setState({ categories });
       })
       .catch((error) => {
-        console.log("Error yaa ", error);
+        console.log("Error", error);
       });
   }
 

@@ -183,42 +183,7 @@
       }
     }
   ],
-  "keranjangs": [
-    {
-      "jumlah": 1,
-      "total_harga": 16000,
-      "product": {
-        "id": 1,
-        "kode": "Menu Lapar-1",
-        "nama": "Sate Madura",
-        "harga": 16000,
-        "is_ready": true,
-        "gambar": "sate-madura.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 1
-    },
-    {
-      "jumlah": 1,
-      "total_harga": 14000,
-      "product": {
-        "id": 7,
-        "kode": "Menu Lapar-7",
-        "nama": "Gado-Gado",
-        "harga": 14000,
-        "is_ready": true,
-        "gambar": "gado-gado.jpg",
-        "category": {
-          "id": 1,
-          "nama": "Makanan"
-        }
-      },
-      "id": 2
-    }
-  ],
+  "keranjangs": [],
   "pesanans": [
     {
       "total_bayar": 42000,
@@ -2138,6 +2103,127 @@
         }
       ],
       "id": 34
+    },
+    {
+      "total_bayar": 30000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 7,
+            "kode": "Menu Lapar-7",
+            "nama": "Gado-Gado",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "gado-gado.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        }
+      ],
+      "id": 35
+    },
+    {
+      "total_bayar": 30000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 16000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 7,
+            "kode": "Menu Lapar-7",
+            "nama": "Gado-Gado",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "gado-gado.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        }
+      ],
+      "id": 36
+    },
+    {
+      "total_bayar": 46000,
+      "menus": [
+        {
+          "jumlah": 2,
+          "total_harga": 32000,
+          "product": {
+            "id": 1,
+            "kode": "Menu Lapar-1",
+            "nama": "Sate Madura",
+            "harga": 16000,
+            "is_ready": true,
+            "gambar": "sate-madura.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "keterangan": "bumbu kacangnya di pisah",
+          "id": 1
+        },
+        {
+          "jumlah": 1,
+          "total_harga": 14000,
+          "product": {
+            "id": 2,
+            "kode": "Menu Lapar-2",
+            "nama": "Nasi Kuning",
+            "harga": 14000,
+            "is_ready": true,
+            "gambar": "nasi-kuning.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Makanan"
+            }
+          },
+          "id": 2
+        }
+      ],
+      "id": 37
     }
   ]
 }
